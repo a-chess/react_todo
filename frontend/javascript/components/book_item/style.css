@@ -1,0 +1,7 @@
+.container {
+  flex-direction: row;
+}
+
+.text {
+  display: inline-block;
+}
